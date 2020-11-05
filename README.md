@@ -1,15 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to Corpus Workshop
 
-You can use the [editor on GitHub](https://github.com/lopentu/CorpusWorkshop/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+We offer you a powerful and useful skill and knowledge to build your own corpus to facilitate your research and study. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
