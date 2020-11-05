@@ -1,21 +1,10 @@
-## Welcome to Corpus Workshop
+## Corpus Workshop
+利用語料庫做語言研究與計算應用已經是不可逆轉的趨勢。 但是隨著研究議題的多元化與數據的增加，**學習如何使用程式來處理研究語料，甚而建立自己的語料庫開放給別人永續使用**，也成了語言研究者與 NLP 工程師很重要的訓練之一。 在此背景下，我們舉辦這個工作坊，邀請有興趣的朋友一起來參加學習。
 
-We offer you a powerful and useful skill and knowledge to build your own corpus to facilitate your research and study. 
+### Hands-on Corpus Linguistics
+- 第一屆語料庫程式實務工作坊 2018
+- 第二屆語料庫程式實務工作坊 2020
 
-
-### Markdown
-
-
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
