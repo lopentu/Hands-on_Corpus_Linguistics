@@ -29,8 +29,11 @@
 
 ### 報名資訊
 - 報名期間：即日起至 2020 年 12 月 4 日（人數額滿則截止）
+
 - 人數限制：80 人 
+
 - 報名費用：免費參加（由台大文學院人文創化計畫補助）
+
 - 報名方式：請填寫[Hocor 2020 報名表單](https://forms.gle/f326Yb5Jxpcr9FwV8)（注意：主辦單位每週五會統一寄發報名錄取通知，收到該通知方為報名成功。）
 
 ---
@@ -43,4 +46,5 @@
 ## 主辦單位
 國立臺灣大學語言學研究所。知識本體語言處理人文計算實驗室。
 ![GIL Logo](/images/gillogo.png)
+<img src="images/lopelogo.png" style="width: 150px; height:200px; object-fit: contain;">
 
