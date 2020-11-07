@@ -12,8 +12,8 @@
 <table>
     <colgroup>
        <col span="1" style="width: 20%;">
-       <col span="1" style="width: 60%;">
-       <col span="1" style="width: 20%;">
+       <col span="1" style="width: 50%;">
+       <col span="1" style="width: 30%;">
     </colgroup> 
     <thead style="background-color:#ecfcf4;">
         <tr>
@@ -56,8 +56,8 @@
 <table>
     <colgroup>
        <col span="1" style="width: 20%;">
-       <col span="1" style="width: 60%;">
-       <col span="1" style="width: 20%;">
+       <col span="1" style="width: 50%;">
+       <col span="1" style="width: 30%;">
     </colgroup> 
     <thead style="background-color:#ecfcf4;">
         <tr>
