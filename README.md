@@ -112,13 +112,13 @@
 - [PPT 語料庫](http://140.112.147.132:9898/)
 
 ## 主辦單位
-<table style="border:0;">
+<table style="border: none;">
     <tr>
-        <td><img src="images/gillogo.png" style="heigh: 50px; object-fit: contain; max-width:50%;"></td>
+        <td><img src="images/gillogo.png" style="width: 30px; object-fit: contain; max-width:50%;"></td>
         <td>國立臺灣大學語言學研究所</td>
     </tr>
     <tr>
-        <td><img src="images/lopelogo.png" style="heigh: 50px; object-fit: contain; max-width:50%;"></td>
+        <td><img src="images/lopelogo.png" style="width: 30px; object-fit: contain; max-width:50%;"></td>
         <td>知識本體語言處理人文計算實驗室</td>
     </tr>
 </table>
