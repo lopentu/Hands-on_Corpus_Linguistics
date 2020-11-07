@@ -9,6 +9,46 @@
 立基於
 
 ### 課程安排
+<table>
+    <thead>
+        <tr>
+            <th colspan="3"> 12 月 12 日（六） </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>時間</td>
+            <td>課程/活動</td>
+            <td>講師</td>
+        </tr>
+        <tr>
+            <td>08:50 ~ 09:10</td>
+            <td>報到 & 入場</td>
+            <td>--</td>
+        </tr>
+        <tr>
+            <td>09:10 ~ 10:10</td>
+            <td>開幕</td>
+            <td>謝舒凱</td>
+        </tr>
+        <tr>
+            <td>10:20 ~ 12:10</td>
+            <td>刀工備料：CoreNLP與自動詞意標記</td>
+            <td>曾昱翔</td>
+        </tr>
+        <tr>
+            <td>12:10 ~ 13:30</td>
+            <td>用餐時間</td>
+            <td>--</td>
+        </tr>
+        <tr>
+            <td>13:30 ~ 16:30</td>
+            <td>小農手作：語料庫索引與建置</td>
+            <td>洪漢唐、江琼玉</td>
+        </tr>
+    </tbody>
+</table>
+
 #### 12 月 12 日（六）
 時間 | 課程/活動 | 講師
 ------------ | ------------- | -------------
@@ -45,6 +85,6 @@
 
 ## 主辦單位
 國立臺灣大學語言學研究所。知識本體語言處理人文計算實驗室。
-![GIL Logo](/images/gillogo.png)
-<img src="images/lopelogo.png" style="width: 150px; height:200px; object-fit: contain;">
+<img src="images/gillogo.png" style="width: 150px; height:200px; object-fit: contain; max-width:50%;">
+<img src="images/lopelogo.png" style="width: 150px; height:200px; object-fit: contain; max-width:50%;">
 
