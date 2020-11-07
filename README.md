@@ -12,7 +12,7 @@
        <col span="1" style="width: 50%;">
        <col span="1" style="width: 30%;">
     </colgroup> 
-    <thead style="background-color:#159978; color:white;">
+    <thead style="background-color:#008476; color:white;">
         <tr>
             <th colspan="3"> 12 月 12 日（六） </th>
         </tr>
@@ -56,7 +56,7 @@
        <col span="1" style="width: 50%;">
        <col span="1" style="width: 30%;">
     </colgroup> 
-    <thead style="background-color:#159978; color:white;">
+    <thead style="background-color:#008476; color:white;">
         <tr>
             <th colspan="3"> 12 月 13 日（日） </th>
         </tr>
@@ -102,7 +102,7 @@
 - 報名費用：免費參加（由台大文學院人文創化計畫補助）
 
 - 報名方式：請填寫 [Hocor 2020 報名表單](https://forms.gle/f326Yb5Jxpcr9FwV8)  
-        >注意：主辦單位每週五會統一寄發報名錄取通知，收到該通知方為報名成功。
+        > 注意：主辦單位每週五會統一寄發報名錄取通知，收到該通知方為報名成功。
 
 ---
 ## 相關連結
@@ -114,11 +114,11 @@
 ## 主辦單位
 <table>
     <tr>
-        <td><img src="images/gillogo.png" style="width: 50px; height:50px; object-fit: contain; max-width:30%;"></td>
+        <td><img src="images/gillogo.png" style="object-fit: contain; max-width:100%;"></td>
         <td>國立臺灣大學語言學研究所</td>
     </tr>
     <tr>
-        <td><img src="images/lopelogo.png" style="width: 50px; height:50px; object-fit: contain; max-width:30%;"></td>
+        <td><img src="images/lopelogo.png" style="object-fit: contain; max-width:100%;"></td>
         <td>知識本體語言處理人文計算實驗室</td>
     </tr>
 </table>
