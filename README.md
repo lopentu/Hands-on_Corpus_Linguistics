@@ -102,17 +102,12 @@
 - 報名費用：免費參加（由台大文學院人文創化計畫補助）
 
 - 報名方式：請填寫 [Hocor 2020 報名表單](https://forms.gle/f326Yb5Jxpcr9FwV8)  
-        > 注意：主辦單位每週五會統一寄發報名錄取通知，收到該通知方為報名成功。
+        >>> 注意：主辦單位每週五會統一寄發報名錄取通知，收到該通知方為報名成功。
 
----
-## 相關連結
-- [第一屆語料庫程式實務工作坊(Hocor2018)](http://lope.linguistics.ntu.edu.tw/hocor2018/)
-- [人文學群的 Python 程式入門](https://lopentu.github.io/PythonForHumanities/)
-- [LOPEN 計劃](https://lopen.linguistics.ntu.edu.tw/)
-- [PPT 語料庫](http://140.112.147.132:9898/)
-
-## 主辦單位
-<table style="border: none;">
+### 主辦單位
+國立臺灣大學語言學研究所  
+知識本體語言處理人文計算實驗室  
+<!--<table style="border: none;">
     <tr>
         <td><img src="images/gillogo.png" style="width: 30px; object-fit: contain; max-width:50%;"></td>
         <td>國立臺灣大學語言學研究所</td>
@@ -122,5 +117,17 @@
         <td>知識本體語言處理人文計算實驗室</td>
     </tr>
 </table>
+--->
+
+### 協辦單位
+台大文學院人文創化計畫  
+
+
+---
+## 相關連結
+- [第一屆語料庫程式實務工作坊(Hocor2018)](http://lope.linguistics.ntu.edu.tw/hocor2018/)
+- [人文學群的 Python 程式入門](https://lopentu.github.io/PythonForHumanities/)
+- [LOPEN 計劃](https://lopen.linguistics.ntu.edu.tw/)
+- [PPT 語料庫](http://140.112.147.132:9898/)
 
 
