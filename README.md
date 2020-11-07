@@ -11,9 +11,9 @@
 ### 課程安排
 <table>
     <colgroup>
-       <col span="1" style="width: 15%;">
-       <col span="1" style="width: 70%;">
-       <col span="1" style="width: 15%;">
+       <col span="1" style="width: 20%;">
+       <col span="1" style="width: 60%;">
+       <col span="1" style="width: 20%;">
     </colgroup> 
     <thead style="background-color:#ecfcf4;">
         <tr>
@@ -54,6 +54,11 @@
 
 <br/><br/><br/>
 <table>
+    <colgroup>
+       <col span="1" style="width: 20%;">
+       <col span="1" style="width: 60%;">
+       <col span="1" style="width: 20%;">
+    </colgroup> 
     <thead style="background-color:#ecfcf4;">
         <tr>
             <th colspan="3"> 12 月 13 日（日） </th>
