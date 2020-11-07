@@ -12,7 +12,7 @@
        <col span="1" style="width: 50%;">
        <col span="1" style="width: 30%;">
     </colgroup> 
-    <thead style="background-color:#267acc;">
+    <thead style="background-color:#159978; color:white;">
         <tr>
             <th colspan="3"> 12 月 12 日（六） </th>
         </tr>
@@ -56,7 +56,7 @@
        <col span="1" style="width: 50%;">
        <col span="1" style="width: 30%;">
     </colgroup> 
-    <thead style="background-color:#267acc;">
+    <thead style="background-color:#159978; color:white;">
         <tr>
             <th colspan="3"> 12 月 13 日（日） </th>
         </tr>
@@ -112,8 +112,15 @@
 - [PPT 語料庫](http://140.112.147.132:9898/)
 
 ## 主辦單位
-<span>國立臺灣大學語言學研究所。  
-    <img src="images/gillogo.png" style="width: 50px; height:50px; object-fit: contain; max-width:30%;"></span>
-<p>知識本體語言處理人文計算實驗室。</p>
-    <img src="images/lopelogo.png" style="width: 50px; height:50px; object-fit: contain; max-width:30%;">
+<table>
+    <tr>
+        <td><img src="images/gillogo.png" style="width: 50px; height:50px; object-fit: contain; max-width:30%;"></td>
+        <td>國立臺灣大學語言學研究所</td>
+    </tr>
+    <tr>
+        <td><img src="images/lopelogo.png" style="width: 50px; height:50px; object-fit: contain; max-width:30%;"></td>
+        <td>知識本體語言處理人文計算實驗室</td>
+    </tr>
+</table>
+
 
