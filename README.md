@@ -46,7 +46,9 @@
             <td>小農手作：語料庫索引與建置</td>
             <td>洪漢唐、江琼玉</td>
         </tr>
-        <tr style="border:0"></tr>
+        <tr style="border:0">
+            <td colspan="3">  </td>
+        </tr>
     </tbody>
     <thead style="background-color:#008476; color:white;">
         <tr>
@@ -85,6 +87,11 @@
     </tbody>
 </table>
 
+### 會場資訊
+國立臺灣大學普通教學館 102 教室
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14462.14610653943!2d121.5375425!3d25.01586!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3442a989deb9207f%3A0x8de176bf66b58b1d!2z5Y-w54Gj5aSn5a245pmu6YCa5pWZ5a246aSo!5e0!3m2!1sen!2stw!4v1539766787622" width="60%" frameborder="0" style="border:0; padding: 20px; background-color:rgba(191, 224, 221, 0.945); border-radius: 8px;" allowfullscreen=""></iframe>
+
 ### 報名資訊
 - 人數限制：80 人 
 
@@ -113,7 +120,7 @@
 --->
 
 ### 協辦單位
-台大文學院人文創化計畫  
+國立臺灣大學文學院人文創新與全球化研究中心  
 
 
 ---
