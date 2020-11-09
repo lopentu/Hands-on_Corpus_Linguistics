@@ -14,7 +14,7 @@
     </colgroup> 
     <thead style="background-color:#008476; color:white;">
         <tr>
-            <th colspan="3"> 12 月 12 日（六） </th>
+            <th colspan="3"> DAY 1 |  12 月 12 日（六） </th>
         </tr>
     </thead>
     <tbody>
@@ -52,7 +52,7 @@
     </tbody>
     <thead style="background-color:#008476; color:white;">
         <tr>
-            <th colspan="3"> 12 月 13 日（日） </th>
+            <th colspan="3"> DAY 2 |  12 月 13 日（日） </th>
         </tr>
     </thead>
     <tbody>
@@ -90,7 +90,7 @@
 ### 會場資訊
 國立臺灣大學普通教學館 102 教室
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14462.14610653943!2d121.5375425!3d25.01586!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3442a989deb9207f%3A0x8de176bf66b58b1d!2z5Y-w54Gj5aSn5a245pmu6YCa5pWZ5a246aSo!5e0!3m2!1sen!2stw!4v1539766787622" width="70%" height="50%" max-height="500px" frameborder="0" style="border:0; padding: 20px; background-color:rgba(190, 223, 203, 0.6); border-radius: 8px;" allowfullscreen=""></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14462.14610653943!2d121.5375425!3d25.01586!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3442a989deb9207f%3A0x8de176bf66b58b1d!2z5Y-w54Gj5aSn5a245pmu6YCa5pWZ5a246aSo!5e0!3m2!1sen!2stw!4v1539766787622" width="70%" frameborder="0" style="border:0; padding: 10px; background-color:rgba(190, 223, 203, 0.6); border-radius: 8px;" allowfullscreen=""></iframe>
 
 ### 報名資訊
 - 人數限制：80 人 
