@@ -47,7 +47,7 @@
             <td>洪漢唐、江琼玉</td>
         </tr>
         <tr style="border:0">
-            <td colspan="3">  </td>
+            <td style="border:0" colspan="3">  </td>
         </tr>
     </tbody>
     <thead style="background-color:#008476; color:white;">
