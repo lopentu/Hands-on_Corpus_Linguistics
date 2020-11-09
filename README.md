@@ -131,6 +131,6 @@
 - [第一屆語料庫程式實務工作坊(Hocor2018)](http://lope.linguistics.ntu.edu.tw/hocor2018/)
 - [人文學群的 Python 程式入門](https://lopentu.github.io/PythonForHumanities/)
 - [LOPEN 計劃](https://lopen.linguistics.ntu.edu.tw/)
-- [PPT 語料庫](http://140.112.147.132:9898/)
+- [PTT 語料庫](http://140.112.147.132:9898/)
 
 
