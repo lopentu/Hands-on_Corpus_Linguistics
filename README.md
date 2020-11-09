@@ -90,7 +90,7 @@
 ### 會場資訊
 國立臺灣大學普通教學館 102 教室
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14462.14610653943!2d121.5375425!3d25.01586!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3442a989deb9207f%3A0x8de176bf66b58b1d!2z5Y-w54Gj5aSn5a245pmu6YCa5pWZ5a246aSo!5e0!3m2!1sen!2stw!4v1539766787622" width="70%" frameborder="0" style="max-height:500px; border:0; padding: 20px; background-color:rgba(143, 182, 220, 0.91); border-radius: 8px;" allowfullscreen=""></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14462.14610653943!2d121.5375425!3d25.01586!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3442a989deb9207f%3A0x8de176bf66b58b1d!2z5Y-w54Gj5aSn5a245pmu6YCa5pWZ5a246aSo!5e0!3m2!1sen!2stw!4v1539766787622" width="70%" max-height:500px frameborder="0" style="border:0; padding: 20px; background-color:rgba(190, 223, 203, 0.6); border-radius: 8px;" allowfullscreen=""></iframe>
 
 ### 報名資訊
 - 人數限制：80 人 
@@ -102,7 +102,7 @@
 - 報名費用：免費參加（由台大文學院人文創化計畫補助）
 
 - 報名方式：請填寫 [Hocor 2020 報名表單](https://forms.gle/f326Yb5Jxpcr9FwV8)  
-        >> 注意：主辦單位每週五會統一寄發報名錄取通知，收到該通知方為報名成功。 <<
+        ```>> 注意：主辦單位每週五會統一寄發報名錄取通知，收到該通知方為報名成功。 <<```
 
 ### 主辦單位
 國立臺灣大學語言學研究所  
