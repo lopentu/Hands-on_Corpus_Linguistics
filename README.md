@@ -93,14 +93,14 @@
 ### 會場資訊
 國立臺灣大學普通教學館 102 教室
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14462.14610653943!2d121.5375425!3d25.01586!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3442a989deb9207f%3A0x8de176bf66b58b1d!2z5Y-w54Gj5aSn5a245pmu6YCa5pWZ5a246aSo!5e0!3m2!1sen!2stw!4v1539766787622" width="70%" frameborder="0" style="border:0; padding: 10px; background-color:rgba(190, 223, 203, 0.6); border-radius: 8px;" allowfullscreen=""></iframe>
+<a href="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14462.14610653943!2d121.5375425!3d25.01586!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3442a989deb9207f%3A0x8de176bf66b58b1d!2z5Y-w54Gj5aSn5a245pmu6YCa5pWZ5a246aSo!5e0!3m2!1sen!2stw!4v1539766787622" target="_blank"><img src="images/ntumap2020.png" style="object-fit: contain; max-width:50%;padding: 10px; background-color:rgba(190, 223, 203, 0.6); border-radius: 8px;"></a>
 
 ### 報名資訊
 - 人數限制：80 人 
 
 - 報名資格：參加者須具備 Python 程式能力
 
-- 報名期間：即日起至 2020 年 12 月 4 日（人數額滿則截止）
+- 報名期間：即日起至 2020 年 12 月 4 日（額滿截止）
 
 - 報名費用：免費參加（由台大文學院人文創化計畫補助）
 
@@ -110,17 +110,6 @@
 ### 主辦單位
 國立臺灣大學語言學研究所  
 知識本體語言處理人文計算實驗室  
-<!--<table style="border: none;">
-    <tr>
-        <td><img src="images/gillogo.png" style="width: 30px; object-fit: contain; max-width:50%;"></td>
-        <td>國立臺灣大學語言學研究所</td>
-    </tr>
-    <tr>
-        <td><img src="images/lopelogo.png" style="width: 30px; object-fit: contain; max-width:50%;"></td>
-        <td>知識本體語言處理人文計算實驗室</td>
-    </tr>
-</table>
---->
 
 ### 協辦單位
 國立臺灣大學文學院人文創新與全球化研究中心  
