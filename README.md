@@ -93,7 +93,7 @@
 ### 會場資訊
 國立臺灣大學普通教學館 102 教室
 
-<a href="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14462.14610653943!2d121.5375425!3d25.01586!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3442a989deb9207f%3A0x8de176bf66b58b1d!2z5Y-w54Gj5aSn5a245pmu6YCa5pWZ5a246aSo!5e0!3m2!1sen!2stw!4v1539766787622" target="_blank"><img src="images/ntumap2020.png" style="object-fit: contain; max-width:50%;padding: 10px; background-color:rgba(190, 223, 203, 0.6); border-radius: 8px;"></a>
+<a href="https://goo.gl/maps/TBNMXgh4zCWqAApYA" target="_blank"><img src="images/ntumap2020.png" style="max-width:50%;padding: 10px; background-color:rgba(190, 223, 203, 0.6); border-radius: 8px;"></a>
 
 ### 報名資訊
 - 人數限制：80 人 
