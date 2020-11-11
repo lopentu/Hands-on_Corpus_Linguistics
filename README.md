@@ -6,7 +6,7 @@
 ## 本屆工作坊課程介紹
 <div style="width:100%;">
     <div style="width:60%;">本工作坊的目的，是希望對有 Python 入門知識的人提供一組語料庫程式處理的專門程式技。2018 第一屆語料庫程式實務工作坊從網路文本資料蒐集、文本分析到線上發佈個人語料庫，並以現場實作方式協助參加者完成建置，課程結束後亦公開課程資料於 Github 上。  
-    <div style="width:40%;"><img src="images/hocor2020.png" style="object-fit: contain; width:100%;"></div> </div>
+        <img src="images/hocor2020.png" style="object-fit: contain; width:100%;"></div>
     </div>
 
 在此基礎上 2020 第二屆語料庫程式實務工作坊將帶領大家從自己已有的實際語料出發，介紹中文自動化標記、創建語料庫索引、利用現有資源建立自有語料庫、分享語料庫研究相關專案與應用。
