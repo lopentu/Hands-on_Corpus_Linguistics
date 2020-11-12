@@ -1,17 +1,23 @@
 在科技與社群媒體的交互影響之下，文本資料的產生、散播與收集變得較以往便利而有效率，而文本分析的需求提高，其作法與樣貌也與過往有所不同，利用語料庫做語言研究與計算應用早已是時勢所趨。    
 
-隨著研究議題的多元化與數據增加，**學習如何使用程式來處理研究語料，甚而使用程式來處理語料、建立個人語料庫並開放、釋出讓人永續使用**，對語言工作者與NLP工程師而言亦是重要的訓練之一。在此背景下，我們舉辦這個工作坊，邀請有興趣的朋友一起來參加學習。  
- 
+隨著研究議題的多元化與數據增加，**學習如何使用程式來處理研究語料，甚而使用程式來處理語料、建立個人語料庫並開放、釋出讓人永續使用**，對語言工作者與NLP工程師而言亦是重要的訓練之一。在此背景下，我們舉辦這個工作坊，邀請有興趣的朋友一起來參加學習。    
+
+
+>
+> 本工作坊的目的，是希望為有 Python 入門知識的人提供一組語料庫程式處理的專門程式技能。  
+>
+
+
 ---
 ## 本屆工作坊課程介紹
-> 本工作坊的目的，是希望為有 Python 入門知識的人提供一組語料庫程式處理的專門程式技能。  
 
 2018 第一屆語料庫程式實務工作坊從網路文本資料蒐集、文本分析到線上發佈個人語料庫，並以現場實作方式協助參加者完成建置，課程結束後亦公開課程資料於 Github 上。  
 
-在此基礎上 2020 第二屆語料庫程式實務工作坊將帶領大家從已有的實際語料出發，介紹中文自動化標記、創建語料庫索引、利用現有資源建立自有語料庫、分享語料庫研究相關專案與應用。  
+
+在此基礎上 2020 第二屆語料庫程式實務工作坊將帶領大家從已有的實際語料出發，介紹中文自動化標記、創建語料庫索引、利用現有資源建立自有語料庫、分享語料庫研究相關專案與應用。    
 
 
-<img src="images/hocor-3.png" style="width:80%; display:block; margin:auto; padding: 20px; background-color:rgba(247, 246, 238, 0.6); border-radius: 8px;">
+<img src="images/hocor-3.png" style="width:80%; display:block; margin:auto; padding: 10px; background-color:rgba(247, 246, 238, 0.6); border-radius: 8px;">
 
 
 ### 課程安排
@@ -97,9 +103,9 @@
 </table>
 
 ### 會場資訊
-國立臺灣大學普通教學館 102 教室   [點擊看Gmap](https://goo.gl/maps/TBNMXgh4zCWqAApYA)
+國立臺灣大學普通教學館 102 教室 （[用 google map 規劃路線](https://goo.gl/maps/TBNMXgh4zCWqAApYA)）
 
-<a href="https://lopentu.github.io/Hands-on_Corpus_Linguistics/images/ntumap2020.png" target="_blank"><img src="images/ntumap2020.png" style="max-width:80%; padding: 10px; background-color:rgba(190, 223, 203, 0.6); border-radius: 8px; display:block; margin:auto;"></a>
+<a href="https://lopentu.github.io/Hands-on_Corpus_Linguistics/images/ntumap2020.png" target="_blank" title="點擊可放大圖片"><img src="images/ntumap2020.png" style="max-width:80%; padding: 10px; background-color:rgba(190, 223, 203, 0.6); border-radius: 8px; display:block; margin:auto;"></a>
 
 ### 報名資訊
 - 人數限制：80 人 
