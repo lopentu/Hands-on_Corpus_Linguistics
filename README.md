@@ -134,4 +134,3 @@
 - [LOPEN 計劃](https://lopen.linguistics.ntu.edu.tw/)
 - [PTT 語料庫](http://140.112.147.132:9898/)
 
-
