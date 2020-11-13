@@ -20,7 +20,7 @@
 <img src="images/hocor-3.png" style="width:80%; display:block; margin:auto; padding: 10px; background-color:rgba(247, 246, 238, 0.6); border-radius: 8px;">
   
 
-### 課程安排
+<h3 id="schedule">課程安排</h3>
 <table style="width: 100%;">
     <colgroup>
        <col span="1" style="width: 20%;">
@@ -120,12 +120,12 @@
     </tbody>
 </table>
 
-### 會場資訊
+<h3 id="location"> 會場資訊 </h3>
 國立臺灣大學普通教學館 102 教室 （[用 google map 規劃路線](https://goo.gl/maps/TBNMXgh4zCWqAApYA)）
 
 <a href="https://lopentu.github.io/Hands-on_Corpus_Linguistics/images/ntumap2020.png" target="_blank" title="點擊可放大圖片"><img src="images/ntumap2020.png" style="max-width:80%; padding: 10px; background-color:rgba(190, 223, 203, 0.6); border-radius: 8px; display:block; margin:auto;"></a>
 
-### 報名資訊
+<h3 id="registration"> 報名資訊 </h3>
 - 人數限制：80 人 
 
 - 報名資格：參加者須具備 Python 程式能力
