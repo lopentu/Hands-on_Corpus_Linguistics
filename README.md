@@ -124,23 +124,22 @@
 <div >
 <table style="width: 100%; border: none;">
     <tr>
-        <th style="background-color:#83cdd1; color:white;"> 謝舒凱 </th>
+        <th style="background-color:#83cdd1; "> 謝舒凱 </th>
         <td>國立台灣大學語言學研究所副教授兼所長</br>
             知識本體語言處理人文計算實驗室 主持人</br>
             <a href="https://lope.linguistics.ntu.edu.tw/">個人網頁</a></td>
         </tr>
     <tr>
-        <th style="background-color:#83cdd1; color:white;"> 曾昱翔 </th>
+        <th style="background-color:#83cdd1; "> 曾昱翔 </th>
         <td>國立台灣大學語言學研究所博士後研究人員</br>
             國立台灣大學心理學研究所博士</br>
             <a href="https://lope.linguistics.ntu.edu.tw/">個人網頁</a></td>
         </tr>
     <tr>
-        <th style="background-color:#83cdd1; color:white;"> 洪漢唐 </th>
+        <th style="background-color:#83cdd1; "> 洪漢唐 </th>
         <td>國立台灣大學語言學研究所碩士生</br>
             知識本體語言處理人文計算實驗室成員</br>
             <a href="https://lope.linguistics.ntu.edu.tw/">個人網頁</a></td>
-        </tr>
         </tr>
     </table>
 </div>
@@ -163,7 +162,6 @@
         <td>國立台灣大學語言學研究所碩士生</br>
             知識本體語言處理人文計算實驗室成員</br>
             <a href="https://lope.linguistics.ntu.edu.tw/">個人網頁</a></td>
-        </tr>
         </tr>
     </table>
 </div>
