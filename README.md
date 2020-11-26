@@ -125,22 +125,22 @@
 <table style="width: 100%; border: none;">
     <tr>
         <th style="background-color:#aad39c "> 謝舒凱 </th>
-        <td>國立台灣大學語言學研究所副教授兼所長、知識本體語言處理人文計算實驗室主持人
+        <td>國立台灣大學語言學研究所副教授兼所長、 LOPE 實驗室主持人
             <a href="https://lope.linguistics.ntu.edu.tw/"><i class="fas fa-external-link-square-alt"></i></a></td>
         </tr>
     <tr>
         <th style="background-color:#aad39c "> 曾昱翔 </th>
-        <td>國立台灣大學語言學研究所博士後研究人員、知識本體語言處理人文計算實驗室成員
+        <td>國立台灣大學語言學研究所博士後研究人員、 LOPE 實驗室成員
             </td>
         </tr>
     <tr>
         <th style="background-color:#aad39c "> 洪漢唐 </th>
-        <td>國立台灣大學語言學研究所碩士生、知識本體語言處理人文計算實驗室成員、PTT 語料庫維護團隊
+        <td>國立台灣大學語言學研究所碩士生、 LOPE 實驗室成員、PTT 語料庫維護團隊
             </td>
         </tr>
     <tr>
         <th style="background-color:#aad39c "> 江琼玉 </th>
-        <td>國立台灣大學語言學研究所研究助理、知識本體語言處理人文計算實驗室成員
+        <td>國立台灣大學語言學研究所研究助理、 LOPE 實驗室成員
             </td>
         </tr>
     </table>
@@ -159,31 +159,31 @@
         </tr>
     <tr>
         <th style="background-color:#aad39c;"> 許家誠 </th>
-        <td>國立台灣大學語言學研究所碩士生、知識本體語言處理人文計算實驗室成員、PTT 語料庫維護團隊</td>
+        <td>國立台灣大學語言學研究所碩士生、 LOPE 實驗室成員、PTT 語料庫維護團隊</td>
         </tr>
     <tr>
         <th style="background-color:#aad39c;"> 廖聿鋆 </th>
-        <td>國立台灣大學語言學研究所碩士生、知識本體語言處理人文計算實驗室成員、PTT 語料庫維護團隊</td>
+        <td>國立台灣大學語言學研究所碩士生、 LOPE 實驗室成員、PTT 語料庫維護團隊</td>
         </tr>
     <tr>
         <th style="background-color:#aad39c;"> 王伯雅 </th>
-        <td>國立台灣大學語言學研究所博士生、知識本體語言處理人文計算實驗室成員</td>
+        <td>國立台灣大學語言學研究所博士生、 LOPE 實驗室成員</td>
         </tr>
     <tr>
         <th style="background-color:#aad39c;"> 古貿昌 </th>
-        <td>國立台灣大學語言學研究所博士生、知識本體語言處理人文計算實驗室成員</td>
+        <td>國立台灣大學語言學研究所博士生、 LOPE 實驗室成員</td>
         </tr>
     <tr>
         <th style="background-color:#aad39c;"> 石晴方 </th>
-        <td>國立台灣大學語言學研究所碩士生、知識本體語言處理人文計算實驗室成員</td>
+        <td>國立台灣大學語言學研究所碩士生、 LOPE 實驗室成員</td>
         </tr>
     <tr>
         <th style="background-color:#aad39c;"> 廖永賦 </th>
-        <td>國立台灣大學語言學研究所碩士生、知識本體語言處理人文計算實驗室成員</td>
+        <td>國立台灣大學語言學研究所碩士生、 LOPE 實驗室成員</td>
         </tr>
     <tr>
         <th style="background-color:#aad39c;"> 陳蓓怡 </th>
-        <td>國立台灣大學語言學研究所碩士生、知識本體語言處理人文計算實驗室成員</td>
+        <td>國立台灣大學語言學研究所碩士生、 LOPE 實驗室成員</td>
         </tr>
     </table>
 </div>
