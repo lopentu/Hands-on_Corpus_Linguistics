@@ -122,18 +122,16 @@
 
 <h3 id="speakers"> 講師介紹 </h3>
 <table style="width: 100%;">
-    <thead style="background-color:#008476; color:white;">
-        <tr>
-            <th rowspan="3"> 謝舒凱 </th>
+    <tr>
+        <th rowspan="3" style="background-color:#008476; color:white;border-radius: 50%;"> 謝舒凱 </th>
+        <td>國立台灣大學語言學研究所副教授兼所長</td>
         </tr>
-        </thead>
-    <tbody>
-        <tr>
-            <td>國立台灣大學語言學研究所副教授兼所長</td>
-            <td>知識本體語言處理人文計算實驗室 主持人</td>
-            <td>個人網頁</td>
+    <tr>
+        <td>知識本體語言處理人文計算實驗室 主持人</td>
         </tr>
-        </tbody>
+    <tr>
+        <td>個人網頁</td>
+        </tr>
     </table>
 
 
