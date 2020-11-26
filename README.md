@@ -126,7 +126,7 @@
     <tr>
         <th style="background-color:#aad39c "> 謝舒凱 </th>
         <td>國立台灣大學語言學研究所副教授兼所長、 LOPE 實驗室主持人
-            <a href="https://lope.linguistics.ntu.edu.tw/"><i class="fas fa-external-link-alt"></i></a></td>
+            <a href="https://lope.linguistics.ntu.edu.tw/" style="color: green;"><i class="fas fa-external-link-alt"></i></a></td>
         </tr>
     <tr>
         <th style="background-color:#aad39c "> 曾昱翔 </th>
