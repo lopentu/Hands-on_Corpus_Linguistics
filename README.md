@@ -120,13 +120,13 @@
     </tbody>
 </table>
 
-<h3 id="speakers"> 講師介紹 </h3>
+<h3 id="speakers"> 講師簡介 </h3>
 <div >
 <table style="width: 100%; border: none;">
     <tr>
-        <th style="background-color:#aad39c "> 謝舒凱 </th>
+        <a href="https://lope.linguistics.ntu.edu.tw/"><th style="background-color:#aad39c">謝舒凱</th></a> 
         <td>國立台灣大學語言學研究所副教授兼所長、 LOPE 實驗室主持人
-            <a href="https://lope.linguistics.ntu.edu.tw/" style="color: green;"><i class="fas fa-external-link-alt"></i></a></td>
+            </td>
         </tr>
     <tr>
         <th style="background-color:#aad39c "> 曾昱翔 </th>
@@ -148,9 +148,9 @@
 <div>
 <table style="width: 100%; border: none;">
     <tr>
-        <th style="background-color:#aad39c;"> 謝吉隆 </th>
+        <th style="background-color:#aad39c;"><a href="https://sites.google.com/view/remixedlab/?fbclid=IwAR1tLUoGcjJb__s04C2q_U34IJLN4V9xvatGd5E2VXFKlGA6jR1j7ZsowAo"> 謝吉隆 </a></th>
         <td>國立台灣大學新聞研究所副教授、News & Media Lab 主持人
-            <a href="https://sites.google.com/view/remixedlab/?fbclid=IwAR1tLUoGcjJb__s04C2q_U34IJLN4V9xvatGd5E2VXFKlGA6jR1j7ZsowAo"><i class="fas fa-external-link-square-alt"></i></a></td>
+            </td>
         </tr>
     <tr>
         <th style="background-color:#aad39c;"> 藍景彥 </th>
@@ -189,7 +189,7 @@
 </div>
 
 
-<h3 id="location"> 會場資訊 </h3>
+<h3 id="location"> 活動會場 </h3>
 國立臺灣大學普通教學館 102 教室 （ [用 google map 規劃路線](https://goo.gl/maps/TBNMXgh4zCWqAApYA) ）
 
 <a href="https://lopentu.github.io/Hands-on_Corpus_Linguistics/images/ntumap2020.png" target="_blank" title="點擊可放大圖片"><img src="images/ntumap2020.png" style="max-width:80%; padding: 10px; background-color:rgba(190, 223, 203, 0.6); border-radius: 8px; display:block; margin:auto;"></a>
