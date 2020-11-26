@@ -121,24 +121,52 @@
 </table>
 
 <h3 id="speakers"> 講師介紹 </h3>
-<div>
-    <div>
-        </div>
-    <div></div>
-    </div>
-
+<div >
 <table style="width: 100%; border: none;">
     <tr>
-        <th rowspan="3" style="background-color:#008476; color:white;"> 謝舒凱 </th>
-        <td>國立台灣大學語言學研究所副教授兼所長</td>
+        <th style="background-color:#83cdd1; color:white;"> 謝舒凱 </th>
+        <td>國立台灣大學語言學研究所副教授兼所長</br>
+            知識本體語言處理人文計算實驗室 主持人</br>
+            <a href="https://lope.linguistics.ntu.edu.tw/">個人網頁</a></td>
         </tr>
     <tr>
-        <td>知識本體語言處理人文計算實驗室 主持人</td>
+        <th style="background-color:#83cdd1; color:white;"> 曾昱翔 </th>
+        <td>國立台灣大學語言學研究所博士後研究人員</br>
+            國立台灣大學心理學研究所博士</br>
+            <a href="https://lope.linguistics.ntu.edu.tw/">個人網頁</a></td>
         </tr>
     <tr>
-        <td><a href="https://lope.linguistics.ntu.edu.tw/">個人網頁</a></td>
+        <th style="background-color:#83cdd1; color:white;"> 洪漢唐 </th>
+        <td>國立台灣大學語言學研究所碩士生</br>
+            知識本體語言處理人文計算實驗室成員</br>
+            <a href="https://lope.linguistics.ntu.edu.tw/">個人網頁</a></td>
+        </tr>
         </tr>
     </table>
+</div>
+<div>
+<table style="width: 100%; border: none;">
+    <tr>
+        <th style="background-color:#83cdd1; color:white;"> 謝吉隆 </th>
+        <td>國立台灣大學新聞研究所副教授</br>
+            News & Media Lab 主持人</br>
+            <a href="https://sites.google.com/view/remixedlab/?fbclid=IwAR1tLUoGcjJb__s04C2q_U34IJLN4V9xvatGd5E2VXFKlGA6jR1j7ZsowAo">個人網頁</a></td>
+        </tr>
+    <tr>
+        <th style="background-color:#83cdd1; color:white;"> 藍景彥 </th>
+        <td>國立台灣大學新聞研究所碩士</br>
+            </br>
+            <a href="https://lope.linguistics.ntu.edu.tw/">個人網頁</a></td>
+        </tr>
+    <tr>
+        <th style="background-color:#83cdd1; color:white;"> 許家誠 </th>
+        <td>國立台灣大學語言學研究所碩士生</br>
+            知識本體語言處理人文計算實驗室成員</br>
+            <a href="https://lope.linguistics.ntu.edu.tw/">個人網頁</a></td>
+        </tr>
+        </tr>
+    </table>
+</div>
 
 
 <h3 id="location"> 會場資訊 </h3>
