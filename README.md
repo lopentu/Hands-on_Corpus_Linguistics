@@ -38,7 +38,7 @@
             <td>課程/活動</td>
             <td>講師</td>
         </tr>
-        <tr>
+        <tr style="background-color:rgba(247, 246, 238, 0.6)">
             <td>08:50 ~ 09:10</td>
             <td colspan="2">報到 & 入場</td>
         </tr>
@@ -52,7 +52,7 @@
             <td>刀工備料：CoreNLP與自動詞意標記</td>
             <td>曾昱翔</td>
         </tr>
-        <tr>
+        <tr style="background-color:rgba(247, 246, 238, 0.6)">
             <td>12:10 ~ 13:30</td>
             <td colspan="2">用餐時間</td>
         </tr>
@@ -61,7 +61,7 @@
             <td>小農手作：語料庫索引與建置(I)</td>
             <td>洪漢唐、江琼玉</td>
         </tr>
-        <tr>
+        <tr style="background-color:rgba(247, 246, 238, 0.6)">
             <td>15:00 ~ 15:30</td>
             <td colspan="2"> Coffee Break</td>
         </tr>
@@ -86,7 +86,7 @@
             <td>講師</td>
         </tr>
         <tr>
-            <td>09:10 ~ 11:10</td>
+            <td>09:00 ~ 11:00</td>
             <td>獨家食譜：NLP + 語料庫語言學的應用分享</td>
             <td>謝吉隆、藍景彥、謝舒凱</td>
         </tr>
@@ -95,7 +95,7 @@
             <td>上市揀材：PTT語料庫介紹</td>
             <td>許家誠、廖聿鋆</td>
         </tr>
-        <tr>
+        <tr style="background-color:rgba(247, 246, 238, 0.6)">
             <td>12:10 ~ 13:30</td>
             <td colspan="2">用餐時間</td>
         </tr>
@@ -104,7 +104,7 @@
             <td>擺盤上菜：語料庫專案分享(I)</td>
             <td>王伯雅、古貿昌、石晴方、廖永賦、陳蓓怡</td>
         </tr>
-        <tr>
+        <tr style="background-color:rgba(247, 246, 238, 0.6)">
             <td>15:00 ~ 15:30</td>
             <td colspan="2"> Coffee Break</td>
         </tr>
@@ -113,15 +113,32 @@
             <td>擺盤上菜：語料庫專案分享(II)</td>
             <td>王伯雅、古貿昌、石晴方、廖永賦、陳蓓怡</td>
         </tr>
-        <tr>
+        <tr style="background-color:rgba(247, 246, 238, 0.6)">
             <td>17:00 ~ 17:10</td>
             <td colspan="2">閉幕</td>
         </tr>
     </tbody>
 </table>
 
+<h3 id="speakers"> 講師介紹 </h3>
+<table style="width: 100%;">
+    <thead style="background-color:#008476; color:white;">
+        <tr>
+            <th rowspan="3"> 謝舒凱 </th>
+        </tr>
+        </thead>
+    <tbody>
+        <tr>
+            <td>國立台灣大學語言學研究所副教授兼所長</td>
+            <td>知識本體語言處理人文計算實驗室 主持人</td>
+            <td>個人網頁</td>
+        </tr>
+        </tbody>
+    </table>
+
+
 <h3 id="location"> 會場資訊 </h3>
-國立臺灣大學普通教學館 102 教室 （[用 google map 規劃路線](https://goo.gl/maps/TBNMXgh4zCWqAApYA)）
+國立臺灣大學普通教學館 102 教室 （ [用 google map 規劃路線](https://goo.gl/maps/TBNMXgh4zCWqAApYA) ）
 
 <a href="https://lopentu.github.io/Hands-on_Corpus_Linguistics/images/ntumap2020.png" target="_blank" title="點擊可放大圖片"><img src="images/ntumap2020.png" style="max-width:80%; padding: 10px; background-color:rgba(190, 223, 203, 0.6); border-radius: 8px; display:block; margin:auto;"></a>
 
