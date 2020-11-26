@@ -129,7 +129,7 @@
 
 <table style="width: 100%; border: none;">
     <tr>
-        <th rowspan="3" style="background-color:#008476; color:white;border-radius: 50%;"> 謝舒凱 </th>
+        <th rowspan="3" style="background-color:#008476; color:white;"> 謝舒凱 </th>
         <td>國立台灣大學語言學研究所副教授兼所長</td>
         </tr>
     <tr>
