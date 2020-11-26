@@ -121,7 +121,13 @@
 </table>
 
 <h3 id="speakers"> 講師介紹 </h3>
-<table style="width: 100%;">
+<div>
+    <div>
+        </div>
+    <div></div>
+    </div>
+
+<table style="width: 100%; border: none;">
     <tr>
         <th rowspan="3" style="background-color:#008476; color:white;border-radius: 50%;"> 謝舒凱 </th>
         <td>國立台灣大學語言學研究所副教授兼所長</td>
@@ -130,7 +136,7 @@
         <td>知識本體語言處理人文計算實驗室 主持人</td>
         </tr>
     <tr>
-        <td>個人網頁</td>
+        <td><a href="https://lope.linguistics.ntu.edu.tw/">個人網頁</a></td>
         </tr>
     </table>
 
