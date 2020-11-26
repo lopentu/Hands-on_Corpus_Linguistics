@@ -122,9 +122,10 @@
 
 <h3 id="speakers"> 講師簡介 </h3>
 <div >
+<h4> Ｄay 1  講師</h4>
 <table style="width: 100%; border: none;">
     <tr>
-        <a href="https://lope.linguistics.ntu.edu.tw/"><th style="background-color:#aad39c">謝舒凱</th></a> 
+        <th style="background-color:#aad39c"><a href="https://lope.linguistics.ntu.edu.tw/"> 謝舒凱 </a> </th>
         <td>國立台灣大學語言學研究所副教授兼所長、 LOPE 實驗室主持人
             </td>
         </tr>
@@ -146,6 +147,7 @@
     </table>
 </div>
 <div>
+<h4> Ｄay 2  講師</h4>
 <table style="width: 100%; border: none;">
     <tr>
         <th style="background-color:#aad39c;"><a href="https://sites.google.com/view/remixedlab/?fbclid=IwAR1tLUoGcjJb__s04C2q_U34IJLN4V9xvatGd5E2VXFKlGA6jR1j7ZsowAo"> 謝吉隆 </a></th>
