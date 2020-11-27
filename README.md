@@ -145,8 +145,7 @@
             </td>
         </tr>
     </table>
-</div>
-</br>
+</div></br>
 <div>
 <h4> Day 2  講師</h4>
 <table style="width: 100%; border: none;">
