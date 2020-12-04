@@ -193,7 +193,7 @@
 
 
 <h3 id="location"> 活動會場 </h3>
-國立臺灣大學普通教學館 102 教室 （ [用 google map 規劃路線](https://goo.gl/maps/TBNMXgh4zCWqAApYA) ）
+國立臺灣大學博雅教學館 202 教室 （ [用 google map 規劃路線](https://goo.gl/maps/cxUawzhPjgEv6xcb6) ）
 
 <a href="https://lopentu.github.io/Hands-on_Corpus_Linguistics/images/ntumap2020.png" target="_blank" title="點擊可放大圖片"><img src="images/ntumap2020.png" style="max-width:80%; padding: 10px; background-color:rgba(190, 223, 203, 0.6); border-radius: 8px; display:block; margin:auto;"></a>
 
