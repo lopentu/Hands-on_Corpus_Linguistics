@@ -193,9 +193,12 @@
 
 
 <h3 id="location"> 活動會場 </h3>
-國立臺灣大學博雅教學館 202 教室 （ [用 google map 規劃路線](https://goo.gl/maps/cxUawzhPjgEv6xcb6) ）
+國立臺灣大學普通教學館 203 教室 （ [用 google map 規劃路線](https://goo.gl/maps/bzQYBT4j8b9bhqD19) ）
 
-<a href="https://lopentu.github.io/Hands-on_Corpus_Linguistics/images/ntumap2020.png" target="_blank" title="點擊可放大圖片"><img src="images/ntumap2020.png" style="max-width:80%; padding: 10px; background-color:rgba(190, 223, 203, 0.6); border-radius: 8px; display:block; margin:auto;"></a>
+``` >> 注意 1. 配合秋冬防疫措施，請與會者配戴口罩憑證入館。（ 校內人士：台大證件｜校外人士：身分證 ） ```
+``` >> 注意 2. 配合本校施工規劃，活動會場改為普通教學館 203 教室(平面教室)，敬請攜帶充滿電的筆電參與課程。 ```
+
+<a href="https://lopentu.github.io/Hands-on_Corpus_Linguistics/images/ntumap_hocor2020.png" target="_blank" title="點擊可放大圖片"><img src="images/ntumap_hocor2020.png" style="max-width:80%; padding: 10px; background-color:rgba(190, 223, 203, 0.6); border-radius: 8px; display:block; margin:auto;"></a>
 
 <h3 id="registration"> 報名資訊 </h3>
 - 人數限制：80 人 
