@@ -1,0 +1,259 @@
+{
+    "summary": {
+        "searchParam": {
+            "filter": "board:(\"Boy-Girl\") AND year:[2019 TO 2019]&",
+            "first": "0",
+            "indexname": "indexes",
+            "number": "3",
+            "patt": "Mod:[pos=\"D.*\" & pos!=\"DE\"] [word=\"地\"]? V:[pos=\"V.*\" & pos!=\"VH.*\"]",
+            "waitfortotal": "yes",
+            "wordsaroundhit": "3"
+        },
+        "searchTime": 913,
+        "countTime": 913,
+        "windowFirstResult": 0,
+        "requestedWindowSize": 3,
+        "actualWindowSize": 3,
+        "windowHasPrevious": false,
+        "windowHasNext": true,
+        "stillCounting": false,
+        "numberOfHits": 865773,
+        "numberOfHitsRetrieved": 865773,
+        "stoppedCountingHits": false,
+        "stoppedRetrievingHits": false,
+        "numberOfDocs": 10602,
+        "numberOfDocsRetrieved": 10602,
+        "docFields": {
+            "pidField": "doc_id",
+            "titleField": "doc_id",
+            "authorField": "author",
+            "dateField": "year"
+        },
+        "metadataFieldDisplayNames": {
+            "author": "Author",
+            "board": "Board",
+            "doc_id": "Doc id",
+            "fromInputFile": "From input file",
+            "year": "Year"
+        }
+    },
+    "hits": [
+        {
+            "docPid": "M.1546281742.A.844",
+            "start": 10,
+            "end": 12,
+            "captureGroups": [
+                {
+                    "name": "Mod",
+                    "start": 10,
+                    "end": 11
+                },
+                {
+                    "name": "V",
+                    "start": 11,
+                    "end": 12
+                }
+            ],
+            "left": {
+                "punct": [
+                    " ",
+                    " ",
+                    " "
+                ],
+                "pos": [
+                    "Na",
+                    "Nh",
+                    "VH"
+                ],
+                "word": [
+                    "手機",
+                    "大家",
+                    "好"
+                ]
+            },
+            "match": {
+                "punct": [
+                    " ",
+                    " "
+                ],
+                "pos": [
+                    "D",
+                    "VK"
+                ],
+                "word": [
+                    "不",
+                    "知道"
+                ]
+            },
+            "right": {
+                "punct": [
+                    " ",
+                    " ",
+                    " "
+                ],
+                "pos": [
+                    "Nh",
+                    "D",
+                    "P"
+                ],
+                "word": [
+                    "大家",
+                    "有沒有",
+                    "被"
+                ]
+            }
+        },
+        {
+            "docPid": "M.1546281742.A.844",
+            "start": 45,
+            "end": 47,
+            "captureGroups": [
+                {
+                    "name": "Mod",
+                    "start": 45,
+                    "end": 46
+                },
+                {
+                    "name": "V",
+                    "start": 46,
+                    "end": 47
+                }
+            ],
+            "left": {
+                "punct": [
+                    " ",
+                    " ",
+                    " "
+                ],
+                "pos": [
+                    "VA",
+                    "Na",
+                    "D"
+                ],
+                "word": [
+                    "聊天",
+                    "記錄",
+                    "根本"
+                ]
+            },
+            "match": {
+                "punct": [
+                    " ",
+                    " "
+                ],
+                "pos": [
+                    "D",
+                    "VJ"
+                ],
+                "word": [
+                    "也",
+                    "沒"
+                ]
+            },
+            "right": {
+                "punct": [
+                    " ",
+                    " ",
+                    " "
+                ],
+                "pos": [
+                    "Nep",
+                    "VH",
+                    "DE"
+                ],
+                "word": [
+                    "什麼",
+                    "好看",
+                    "的"
+                ]
+            }
+        },
+        {
+            "docPid": "M.1546281742.A.844",
+            "start": 52,
+            "end": 54,
+            "captureGroups": [
+                {
+                    "name": "Mod",
+                    "start": 52,
+                    "end": 53
+                },
+                {
+                    "name": "V",
+                    "start": 53,
+                    "end": 54
+                }
+            ],
+            "left": {
+                "punct": [
+                    " ",
+                    " ",
+                    " "
+                ],
+                "pos": [
+                    "DE",
+                    "D",
+                    "D"
+                ],
+                "word": [
+                    "的",
+                    "想當然",
+                    "也"
+                ]
+            },
+            "match": {
+                "punct": [
+                    " ",
+                    " "
+                ],
+                "pos": [
+                    "D",
+                    "VC"
+                ],
+                "word": [
+                    "不會",
+                    "做出"
+                ]
+            },
+            "right": {
+                "punct": [
+                    " ",
+                    " ",
+                    " "
+                ],
+                "pos": [
+                    "Nep",
+                    "VH",
+                    "DE"
+                ],
+                "word": [
+                    "什麼",
+                    "出軌",
+                    "的"
+                ]
+            }
+        }
+    ],
+    "docInfos": {
+        "M.1546281742.A.844": {
+            "fromInputFile": [
+                "/2019/20190101_0242_M.1546281742.A.844.xml"
+            ],
+            "year": [
+                "2019"
+            ],
+            "author": [
+                "ased13410"
+            ],
+            "doc_id": [
+                "M.1546281742.A.844"
+            ],
+            "board": [
+                "Boy-Girl"
+            ],
+            "lengthInTokens": 1549,
+            "mayView": false
+        },
+        "metadataFieldGroups": []
+    }
+}
