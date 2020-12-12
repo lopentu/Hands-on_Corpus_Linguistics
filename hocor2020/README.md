@@ -1,8 +1,8 @@
-## 2020 語料庫程式實務工作坊
+## 2020 語料庫程式實務工作坊課程講義連結
 
 
 ### 12 月 12 日 ｜ Day 1
-#### 開幕 [語料處理方法入門]()  
+#### 開幕 語料處理方法入門 
 
 #### Session-1 [刀工備料：CoreNLP與自動詞意標記](https://docs.google.com/presentation/d/1oBE7NYbQzJuwtZ2x8keqIAupRoYfMlZB0Nf8bhblcbg/edit?usp=sharing)  
 
@@ -14,7 +14,7 @@
 
 ### 12 月 13 日 ｜ Day 2
 #### Session-3 獨家食譜：NLP + 語料庫語言學的應用分享  
-Session-3.1 [法律判決書文本探勘與應用]()  
+Session-3.1 [法律判決書文本探勘與應用](https://lopentu.github.io/Hands-on_Corpus_Linguistics/hocor2020/slide/session-3.1.pdf)  
 Session-3.2 [判決書的深度解析-從判決書到知識圖譜](https://drive.google.com/file/d/1s5TUqjACauM25GepFyVFHC-NPyCHpFrq/view?usp=sharing)  
 
 
