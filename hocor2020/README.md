@@ -14,8 +14,8 @@
 
 ### 12 月 13 日 ｜ Day 2
 #### Session-3 獨家食譜：NLP + 語料庫語言學的應用分享
-Session-3.1 [法律判決書文本探勘與應用](https://lopentu.github.io/Hands-on_Corpus_Linguistics/hocor2020/slide/session-3.1.pdf) [Demo](https://github.com/P4CSS/legal_workshop)    
-Session-3.2 [判決書的深度解析-從判決書到知識圖譜](https://lopentu.github.io/Hands-on_Corpus_Linguistics/hocor2020/slide/session-3.2.pdf) [Demo](https://github.com/aron3312/GraphDB_sample)   
+Session-3.1 [法律判決書文本探勘與應用](https://lopentu.github.io/Hands-on_Corpus_Linguistics/hocor2020/slide/session-3.1.pdf) [| Demo |](https://github.com/P4CSS/legal_workshop)    
+Session-3.2 [判決書的深度解析-從判決書到知識圖譜](https://lopentu.github.io/Hands-on_Corpus_Linguistics/hocor2020/slide/session-3.2.pdf) [| Demo |](https://github.com/aron3312/GraphDB_sample)   
 
 
 
