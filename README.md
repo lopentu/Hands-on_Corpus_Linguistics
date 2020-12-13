@@ -18,6 +18,7 @@
   
 
 <img src="images/hocor-3.png" style="width:80%; display:block; margin:auto; padding: 10px; background-color:rgba(247, 246, 238, 0.6); border-radius: 8px;">
+        ```  圖：張鈺琳 | credit to source: Smashicons, Flaticon, Freepik ```
   
 
 <h3 id="schedule">課程安排</h3>
