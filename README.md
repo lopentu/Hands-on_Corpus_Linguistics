@@ -157,7 +157,7 @@
         </tr>
     <tr>
         <th style="background-color:#aad39c;"> 藍景彥 </th>
-        <td> 2020 法律科技黑客松得獎者
+        <td> 華新麗華 NLP 工程師、2020 法律科技黑客松得獎者
             </td>
         </tr>
     <tr>
