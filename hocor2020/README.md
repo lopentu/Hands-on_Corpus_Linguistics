@@ -26,7 +26,7 @@ Session-3.2 [判決書的深度解析-從判決書到知識圖譜](https://drive
 #### Session-5 擺盤上菜：語料庫專案分享  
 Session-5.1 [CQL 應用： Grammatical Collocations](https://docs.google.com/presentation/d/1-Eb6g2bxfLtstT3BuOLvXbSLE3RGz9CIqZK9GNVHwC4/edit?usp=sharing)  
 Session-5.2 [Keyness](https://docs.google.com/presentation/d/1WwmBZBpyf5CQHCDa49z_KWaJdN5qD5YlAZdqyoKD2O0/edit?usp=sharing)  
-Session-5.3 [Beyond Keyness(I): TF-IDF]()  
+Session-5.3 [Beyond Keyness(I): TF-IDF](https://drive.google.com/file/d/1LHWeOkGL2IbSJs2THV84CRUl5s7vlmVN/view?usp=sharing)  
 Session-5.4 [Beyond Keyness(II)](https://docs.google.com/presentation/d/1T6ushb_IIavSarEiPQp9lweyzTz7M5UA4H6QKBnhvig/edit?usp=sharing)  
 
 
